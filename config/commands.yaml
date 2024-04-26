@@ -1,0 +1,8 @@
+fix audio:
+    command:
+        - ls -la
+listVarDir:
+    command: ls -la
+    icon: null
+regular ls:
+    command: ls
